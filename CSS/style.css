@@ -1,0 +1,44 @@
+#IPL{
+    color:rgb(164, 188, 222);
+    border: 10px solid rgb(159, 159, 13);
+    background-color:blue;
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 3rem;
+    border-radius: 40px;
+
+}
+
+
+#SRH{
+    color:red;
+    background-color: brown;
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 5rem;
+    border-radius: 20px;
+
+}
+
+#MI{
+    color:white;
+    background-color: rgb(108, 88, 234);
+    border: 10px solid rgb(211, 140, 140);
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 3rem;
+    border-radius: 40px;
+
+}
+
+#CSK{
+    color:yellow;
+    background-color: blue;
+    font-size: 4rem;
+    border-radius: 30px;
+    text-shadow: 10px 10px 20px;
+    border: 10px soli yellow;
+
+
+
+}
