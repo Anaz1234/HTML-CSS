@@ -1,0 +1,167 @@
+#Ipl{
+    color:rgb(164, 188, 222);
+    border: 10px solid rgb(159, 159, 13);
+    background-color:blue;
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 3rem;
+    border-radius: 40px;
+
+}
+
+
+#SRH{
+    color:red;
+    background-color: brown;
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 5rem;
+    border-radius: 20px;
+
+}
+
+#MI{
+    color:white;
+    background-color: rgb(108, 88, 234);
+    border: 10px solid rgb(211, 140, 140);
+    box-shadow: 20px 20px 20px;
+    text-shadow: 10px 10px 10px;
+    font-size: 3rem;
+    border-radius: 40px;
+
+}
+
+#CSK{
+    color:yellow;
+    background-color: blue;
+    font-size: 4rem;
+    border-radius: 30px;
+    text-shadow: 10px 10px 20px;
+    border: 10px soli yellow;
+
+
+
+}
+#mainBody{
+    background-color: rgb(142, 9, 23);
+    
+}
+
+#aboutCsk{
+    display: inline-block;
+   height: 400px;
+   width: 800px;
+    text-align: justify;
+    
+}
+
+
+#mumbaiTeam{
+    color: blue;
+
+}
+
+#aboutMi{
+    overflow: scroll;
+    display: inline-block;
+    height: 400px;
+    width: 900px;
+    text-align: justify;
+
+}
+
+#srhTeam{
+color: red;
+}
+#aboutSrh{
+    display: inline-block;
+    height: 400px;
+    width: 800px;
+    text-align: justify;
+
+}
+#dhoni{
+    display: inline-block;
+    height: 400px;
+    width: 900px;
+    text-align: justify;
+    
+}
+#gaikwad{
+    display: inline-block;
+   
+    width: 1000px;
+    text-align: justify;
+}
+
+#jadeja{
+    display: inline-block;
+   
+    width: 800px;
+    text-align: justify;
+
+}
+
+#rahane{
+    display: inline-block;
+   
+    width: 800px;
+    text-align: justify;
+
+}
+
+#rohit Sharma{
+    display: inline-block;
+    width: 500px;
+    text-align: justify;
+}
+#suryakumar Yadav{
+    display: inline-block;
+    width: 700px;
+    text-align: justify;
+    overflow: auto;
+
+}
+#hardik Pandya{
+    display: inline-block;
+    width: 700px;
+    text-align: justify;
+    overflow: auto;
+}
+#jasprit Bumrah {
+    display: inline-block;
+    width: 700px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#Bhuvneshwar{
+    display: inline-block;
+    height: 500px;
+    text-align: justify;
+    overflow: auto;
+
+}
+#natarajan{
+    display: inline-block;
+   width: 1000px;
+    text-align: justify;
+    overflow: auto;
+
+
+}
+#abhishek{
+    display: inline-block;
+    height: 200px;
+    width : 200px;
+    text-align: justify;
+    overflow: auto;
+}
+#tripathi{
+    display: inline-block;
+    height: 900px;
+    width: 900px;
+    
+    text-align: justify;
+    overflow: auto;
+}
