@@ -1,0 +1,36 @@
+#mainbody{
+ background-image:url(https://pixelz.cc/wp-content/uploads/2018/08/lion-african-savannah-uhd-4k-wallpaper.jpg) ;
+ background-repeat: no-repeat;
+ background-attachment:fixed;
+ background-size: 100%;
+
+}
+
+#head{
+    
+    color:rgb(209, 18, 37);
+    background-color: rgb(39, 97, 3);
+    font-size: 4rem;
+    border-radius: 30px;
+    text-shadow: 10px 10px 10px;
+    border: 10px soli rgb(11, 11, 1);
+    text-align: center;
+
+}
+.kingOfjungle{
+    background-color: rgb(6, 28, 48);
+    border: 20px dashed rgb(140, 31, 31);
+    width: 300px;
+    border-radius: 50%;
+    
+
+}
+
+
+
+img{
+    width: 300px;
+    height: 250px;
+    border: 10px solid rgb(176, 62, 62);
+    background-color: rgb(33, 94, 156)
+}
